@@ -1,4 +1,4 @@
-# A Promise It Won’t Hurt fork.
+# A "Promise It Won’t Hurt" fork
 
 This is a Nodeschool's workshop adopted for Node 12. No global installation is required.
 
